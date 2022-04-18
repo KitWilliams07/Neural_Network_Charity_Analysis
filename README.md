@@ -19,11 +19,6 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Neural_Network_Charity_Analysis/main/Challenge/Resources/ask_amt_counts.png)
 
-
-
-
-## Summary 
-
 The original Neural Network that was created had the following specifications:
 
 Inputs: 43
@@ -52,7 +47,10 @@ Loss: 0.5584
 Accuracy: 0.7312
 
 
-Oddly, the Loss and the Accuracy did not change. We did not reach the target model performance even after making several adjustments used to optimize results. Without creating an additional model and tweaking the specifications even further, it is hard to say why the network preformed the way it did.
+
+## Summary 
+
+Oddly, the Loss and the Accuracy did not change. We did not reach the target model performance even after making several adjustments used to optimize results. Without creating an additional model and tweaking the specifications even further, it is hard to say why the network preformed the way it did. My recommendation would be to create this additional model where all the changes from the first to second model are done to an extreme. This would result in a process of trial and error where we could see if this is the direction of change needed to increase model performance. From here, you could further tweak the specifications based on the results of this new network.
 
 
 
